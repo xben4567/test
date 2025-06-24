@@ -1,16 +1,22 @@
-!# 20250527-01
+!# 20250625-01
 
 !# regex
-/^https?:\/\/dojin-[a-zA-Z0-9]{1,10}\.cyou\/.*/
+/^https?:\/\/(www\.)?it-(swarm|mure)[-.]([a-z]{1,5}[-.]){0,3}[a-z]{1,5}\//
 /^https?:\/\/.*\.torrentkitty\.[a-z]{2,}$/
+/^https?:\/\/dojin-[a-zA-Z0-9]{1,10}\.cyou\/.*/
+/techgym.*?\.connpass.com/
+title/(プログラミング|オンライン|エンジニア)+\s*(スクール|教室|講座)/
+
 
 !# specific - 1
 *://rental.geo-online.co.jp/adult/*
 *://movie.tsutaya-adult.com/netdvd/adl/*
 *://blog.livedoor.jp/wakusoku/*
 *://blog.livedoor.jp/g_ogasawara/*
+*://mynavi-agent.jp/knowledge/it/*
 *://note.com/ko_ai_chatgpt/*
 *://note.com/sayakablog/*
+*://shufu.co.jp/telus/category/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/*
 
 !# specific - 2
 !# IP
@@ -30,6 +36,7 @@
 *://*.123dalle.com/*
 *://*.168million.be/*
 *://*.18-girls-av.com/*
+*://*.1r1g.com/*
 *://*.2000gou.com/*
 *://*.21bridges.jp/*
 *://*.21management.at/*
@@ -67,6 +74,7 @@
 *://*.aabm0.com/*
 *://*.aamovingllc.com/*
 *://*.aat.my/*
+*://*.abcdef.wiki/*
 *://*.abmrc.com/*
 *://*.abocad.com.ar/*
 *://*.abrigobalaiodegato.com.br/*
@@ -113,6 +121,7 @@
 *://*.adventurett.co.in/*
 *://*.aelceg.com/*
 *://*.aerocaribe.aero/*
+*://*.aesa.org/*
 *://*.aesamiranda.pt/*
 *://*.affiliate-kousotu.com/*
 *://*.afghanprosecutors.org/*
@@ -153,6 +162,7 @@
 *://*.akicomi.com/*
 *://*.akseliklonk.fi/*
 *://*.akuum.org/*
+*://*.al.us/*
 *://*.albaniandf.org/*
 *://*.albatrosnekretnine.com/*
 *://*.alchembook.com/*
@@ -180,6 +190,7 @@
 *://*.alpaca76.com/*
 *://*.alphapublishing.com/*
 *://*.alptyrol.at/*
+*://*.alquds.edu/*
 *://*.altagracia.gob.ar/*
 *://*.altislife.com/*
 *://*.altora.pl/*
@@ -290,6 +301,7 @@
 *://*.askdevz.com/*
 *://*.askentire.net/*
 *://*.askfrance.me/*
+*://*.asklobster.com/*
 *://*.askubuntu.ru/*
 *://*.askvoprosy.com/*
 *://*.asmae.org/*
@@ -304,6 +316,7 @@
 *://*.assejud.org/*
 *://*.associadolopesone.com.br/*
 *://*.astralcientifica.com.br/*
+*://*.astrophel.org/*
 *://*.asystem.kg/*
 *://*.at-mania.com/*
 *://*.atekbil.no/*
@@ -321,6 +334,7 @@
 *://*.aunsokuhou.com/*
 *://*.auperemathieu.com/*
 *://*.auriquimica.com.br/*
+*://*.aussievitamin.com/*
 *://*.autisticstrategies.net/*
 *://*.autofix.pt/*
 *://*.automaqmateriais.com.br/*
@@ -348,6 +362,7 @@
 *://*.awesomeopensource.com/*
 *://*.awich.jp/*
 *://*.axiomcaregroup.com/*
+*://*.axxis.co.jp/*
 *://*.ayaka-weblog.com/*
 *://*.azamet.online/*
 *://*.azatokawaii-life.com/*
@@ -428,6 +443,7 @@
 *://*.biker-hotel-sachsen.de/*
 *://*.bildiredi.com/*
 *://*.bilee.com/*
+*://*.bio.br/*
 *://*.biotan.at/*
 *://*.birrificio17.it/*
 *://*.bisbeeprideaz.com/*
@@ -448,8 +464,11 @@
 *://*.blogterest.net/*
 *://*.blue-skyllc.com/*
 *://*.bluecardagency.ru/*
+*://*.bluecomtech.com/*
 *://*.blueskymedia.co.nz/*
+*://*.bme.hu/*
 *://*.bn1.jp/*
+*://*.bodegalostoneles.com/*
 *://*.bodivis.vn/*
 *://*.bodylove.academy/*
 *://*.bokoguma.com/*
@@ -474,6 +493,7 @@
 *://*.brasurelaw.com/*
 *://*.bravo.com.do/*
 *://*.breadybready.blogspot.com/*
+*://*.brianlovin.com/*
 *://*.brightontwp.org/*
 *://*.bring.rs/*
 *://*.britguidenewyork.net/*
@@ -481,10 +501,12 @@
 *://*.brother-works.com/*
 *://*.brr.mx/*
 *://*.brumevsea.edu.pl/*
+*://*.bsu.by/*
 *://*.bubakov.net/*
 *://*.budgetroomhotel.com/*
 *://*.buhidou.com/*
 *://*.buhidou.net/*
+*://*.buildwebhost.com/*
 *://*.buildwiki.ru/*
 *://*.bulgariatabi.jp/*
 *://*.bungakubu.com/*
@@ -560,6 +582,7 @@
 *://*.cesti.pe/*
 *://*.cetril.com.br/*
 *://*.cfadnc.org/*
+*://*.cfbx.jp/*
 *://*.cffadvogados.com/*
 *://*.cftvseginfo.com.br/*
 *://*.challenge-ecogreen-energy.com/*
@@ -636,6 +659,7 @@
 *://*.codegear.dev/*
 *://*.codegrepper.com/*
 *://*.codeguides.site/*
+*://*.codehack.jp/*
 *://*.codehero.jp/*
 *://*.codehunter.cc/*
 *://*.codeindex.ru/*
@@ -841,6 +865,7 @@
 *://*.digital-vorsorgen.de/*
 *://*.digitalpopcorn.co.nz/*
 *://*.digitel.swiss/*
+*://*.digle.tokyo/*
 *://*.dijiteelis.com/*
 *://*.dimasvolvo.com.br/*
 *://*.dinh.dk/*
@@ -860,6 +885,7 @@
 *://*.dkssksk.com/*
 *://*.dldlinks.com/*
 *://*.dldshare.net/*
+*://*.dlold.net/*
 *://*.dlsite.xxxblog.jp/*
 *://*.dlsiteboy.com/*
 *://*.dlsitenews.com/*
@@ -932,6 +958,7 @@
 *://*.drapport.com.my/*
 *://*.drdinl.com/*
 *://*.dream-html-seminar.com/*
+*://*.dream-target.jp/*
 *://*.dream.jp/*
 *://*.drminal.com/*
 *://*.drmsimcock.co.nz/*
@@ -946,7 +973,6 @@
 *://*.dtuto.com/*
 *://*.dufhua.livedoor.blog/*
 *://*.dukandari.co/*
-*://*.dum.apanel.co.id/*
 *://*.dunkindonuts.nl/*
 *://*.duoduokou.com/*
 *://*.duraflex.com.br/*
@@ -980,6 +1006,7 @@
 *://*.echichi.jp/*
 *://*.echichiconro.com/*
 *://*.echichimato.com/*
+*://*.echiechi.site/*
 *://*.ecnf2016.org/*
 *://*.ecoangel.jp/*
 *://*.ecodayone.com/*
@@ -1050,6 +1077,7 @@
 *://*.engineer-first.net/*
 *://*.engineer-life.dev/*
 *://*.engineer-ninaritai.com/*
+*://*.engineer-route.com/*
 *://*.engineer-shukatu.jp/*
 *://*.engineer-style.jp/*
 *://*.enparsteels.com/*
@@ -1061,6 +1089,7 @@
 *://*.epgestao.com.br/*
 *://*.epicclimategreen.ca/*
 *://*.epicgfs.com/*
+*://*.epizy.com/*
 *://*.equistyle-magazine.com/*
 *://*.erertic.dojin.com/*
 *://*.erhvervsforum.dk/*
@@ -1242,6 +1271,7 @@
 *://*.flceo.org/*
 *://*.fleettracktz.com/*
 *://*.flinslaw.com/*
+*://*.flo210908.blog.ss-blog.jp/*
 *://*.florenzacalzados.es/*
 *://*.floridaentandallergy.com/*
 *://*.floridaprofessionalgroup.com/*
@@ -1252,6 +1282,7 @@
 *://*.flutternyumon.com/*
 *://*.flutterrepos.com/*
 *://*.flvrclothing.com/*
+*://*.flxy.jp/*
 *://*.fmmundo.com/*
 *://*.fnbrjp.com/*
 *://*.fnetin.com/*
@@ -1295,7 +1326,6 @@
 *://*.fstc.com/*
 *://*.fsuarezlawgroup.com/*
 *://*.ftbucket.info/*
-*://*.fujiraji.diary.to/*
 *://*.fukarulhan.click/*
 *://*.fukkinuk.com/*
 *://*.fukumames.com/*
@@ -1336,7 +1366,7 @@
 *://*.gcccac.org/*
 *://*.gdcp-ev.de/*
 *://*.geekjob.jp/*
-*://*.geekjob.jp/*
+*://*.geekly.co.jp/*
 *://*.geeksrepos.com/*
 *://*.geekwall.in/*
 *://*.gegevensbeschermingsautoriteit.be/*
@@ -1395,6 +1425,10 @@
 *://*.go-to-zlibrary.com/*
 *://*.goaltime.co.il/*
 *://*.goapr.gr/*
+*://*.gob.do/*
+*://*.gob.ec/*
+*://*.gob.mx/*
+*://*.gob.pe/*
 *://*.gocaresaude.com.br/*
 *://*.gofukuyasan.com/*
 *://*.gogo-ans.jp/*
@@ -1520,10 +1554,14 @@
 *://*.hillside-farms.com/*
 *://*.hilwawater.sa/*
 *://*.himareddy.com/*
+*://*.hipro-job.jp/*
+*://*.histb.com/*
 *://*.hitoyome.com/*
 *://*.hmangamatome.net/*
 *://*.hmd.site/*
 *://*.hmong.ru/*
+*://*.hmong.wiki/*
+*://*.hnavi.co.jp/*
 *://*.hnightstory.com/*
 *://*.hnt.co.jp/*
 *://*.hobby23.net/*
@@ -1568,6 +1606,7 @@
 *://*.hulaho.online/*
 *://*.hulul.net/*
 *://*.hum-berlin.de/*
+*://*.humalance.com/*
 *://*.husl.ru/*
 *://*.hydroseeding.com.br/*
 *://*.hypogeum-otranto.it/*
@@ -1583,6 +1622,7 @@
 *://*.iboxshare.com/*
 *://*.ibpsicologia.com.br/*
 *://*.ichigo0327.com/*
+*://*.ichioshi.smt.docomo.ne.jp/*
 *://*.icoanet.it/*
 *://*.icode.best/*
 *://*.icode9.com/*
@@ -1603,6 +1643,7 @@
 *://*.igiftidea.com/*
 *://*.ihayato.medium.com/*
 *://*.ihrd.ac.in/*
+*://*.ihu.gr/*
 *://*.iiiamet.com.mx/*
 *://*.iikabu.com/*
 *://*.iillii.net/*
@@ -1639,6 +1680,7 @@
 *://*.inkapuno.com/*
 *://*.inmano.com.br/*
 *://*.inn.cafe/*
+*://*.innominds.com/*
 *://*.inoue-med.com/*
 *://*.inouek.jp/*
 *://*.inprnt.com/*
@@ -1689,6 +1731,7 @@
 *://*.istop.kz/*
 *://*.it-better-future.com/*
 *://*.it-career-navi.com/*
+*://*.it-kyujin.jp/*
 *://*.it-mure.jp.net/*
 *://*.it-roy-ru.com/*
 *://*.it-swarm-es.com/*
@@ -1715,6 +1758,7 @@
 *://*.iti-inc.co.jp/*
 *://*.itnursery.com/*
 *://*.itp-sector3.ro/*
+*://*.itpropartners.com/*
 *://*.itranslater.com/*
 *://*.itssicani.it/*
 *://*.ittone.ma/*
@@ -1836,6 +1880,7 @@
 *://*.kacauoliveira.com.br/*
 *://*.kaeuchi.jp/*
 *://*.kagencia.com/*
+*://*.kagoya.jp/*
 *://*.kagyuuhaodoru.seesaa.net/*
 *://*.kaigaihanno.com/*
 *://*.kajiwara-kikaku.com/*
@@ -1996,6 +2041,7 @@
 *://*.livepcwiki.ru/*
 *://*.living-sun.com/*
 *://*.livrariabambi.com.br/*
+*://*.lkz.de/*
 *://*.llorenc.cat/*
 *://*.lmlphp.com/*
 *://*.ln-news.com/*
@@ -2060,6 +2106,7 @@
 *://*.manablog.org/*
 *://*.manacoworking.com/*
 *://*.manchesterinvest.com.br/*
+*://*.maneo.jp/*
 *://*.manga-free.net/*
 *://*.manga-games.com/*
 *://*.manga-introduction.com/*
@@ -2103,6 +2150,7 @@
 *://*.marecryo.it/*
 *://*.marisstellaoba.com/*
 *://*.marketer.jp/*
+*://*.markup-media.com/*
 *://*.marrakech-inn.com/*
 *://*.mars.railpage.com.au/*
 *://*.masa-kun.jp/*
@@ -2133,6 +2181,7 @@
 *://*.medyzon.com/*
 *://*.meenehos.buzz/*
 *://*.megavita.com.br/*
+*://*.meister-kentei.jp/*
 *://*.meitouhan.com/*
 *://*.melakawonderland.com.my/*
 *://*.melasmacure.com/*
@@ -2158,6 +2207,7 @@
 *://*.microeducate.tech/*
 *://*.micropores.com.ar/*
 *://*.microwonders.gr/*
+*://*.mid-works.com/*
 *://*.midvalley.edu.np/*
 *://*.migisanblog.com/*
 *://*.mikolnet.net.br/*
@@ -2175,6 +2225,7 @@
 *://*.miochannel.com/*
 *://*.miprigen.id/*
 *://*.mirai-tc.com/*
+*://*.miraie-group.jp/*
 *://*.mis.udru.ac.th/*
 *://*.miss-jav.com/*
 *://*.missav.com/*
@@ -2194,6 +2245,7 @@
 *://*.mock.co.jp/*
 *://*.modepot.bg/*
 *://*.modere.co.jp/*
+*://*.modis.jp/*
 *://*.moe551k.com/*
 *://*.moeclo.ldblog.jp/*
 *://*.moefig.com/*
@@ -2227,6 +2279,7 @@
 *://*.mresquadrias.com.br/*
 *://*.ms-engineer.jp/*
 *://*.msgroup.color.co.uk/*
+*://*.msomimaktaba.com/*
 *://*.mtciencia.com.br/*
 *://*.mudiameuniversity.edu.ng/*
 *://*.muheroacademia.com/*
@@ -2236,6 +2289,7 @@
 *://*.multi-let.co.uk/*
 *://*.multifab1.com/*
 *://*.mumairashraf.com/*
+*://*.muouseo.com/*
 *://*.murabilia.com/*
 *://*.musclecoding.com/*
 *://*.musebox.it/*
@@ -2245,13 +2299,16 @@
 *://*.musskacken.de/*
 *://*.musyusei.click/*
 *://*.mxinformativo.com/*
+*://*.my.tvnet.if.ua/*
 *://*.mybestblog1.com/*
 *://*.myclass.jp/*
 *://*.mydclimate.org/*
 *://*.myfrankblog.com/*
 *://*.mykidq.com/*
 *://*.mymedicareacademy.org/*
+*://*.mynavi-agent.jp/knowledge/it/*
 *://*.mystiquebeauty.ie/*
+*://*.mytory.net/*
 *://*.n14.nl/*
 *://*.nagoya-f.com/*
 *://*.nahwalwatan.org/*
@@ -2377,6 +2434,7 @@
 *://*.octoba.net/*
 *://*.odu-projekt.de/*
 *://*.oem-matrix-medien.de/*
+*://*.offers.jp/*
 *://*.official.ec/*
 *://*.oftalmoag.com.ar/*
 *://*.oftalmosulvarginha.com.br/*
@@ -2413,6 +2471,7 @@
 *://*.openprojectrepo.com/*
 *://*.opensourceagenda.com/*
 *://*.opensourcelibs.com/*
+*://*.openweaver.com/*
 *://*.operationsports.com/*
 *://*.opineals.net/*
 *://*.oppaiwomomu.blog.fc2.com/*
@@ -2435,6 +2494,7 @@
 *://*.oterocampos.com/*
 *://*.oticavoluntarios.com.br/*
 *://*.otona-lab.com/*
+*://*.otonanoqbei.com/*
 *://*.ottilab.com.br/*
 *://*.otyors237.jp/*
 *://*.ougiyakouji.co.jp/*
@@ -2480,6 +2540,7 @@
 *://*.particleofsound.hatenablog.com/*
 *://*.pas-pol-shop.com/*
 *://*.pascal-nicolas-reverdy.com/*
+*://*.pasonatech.co.jp/*
 *://*.passfab.hatenablog.com/*
 *://*.passservices.com.au/*
 *://*.paulotamanaha.com.br/*
@@ -2498,12 +2559,14 @@
 *://*.penguin411blog.com/*
 *://*.pentainternational.co.uk/*
 *://*.penwithwelcomesrefugees.org/*
+*://*.peraichi.com/*
 *://*.petrg.com.br/*
 *://*.petroleumindustrybill.com/*
 *://*.petrovy.su/*
 *://*.pg-happy.jp/*
 *://*.pg-job.net/*
 *://*.pg-tensyoku.com/*
+*://*.phala.one/*
 *://*.pharmacyreviewer.com/*
 *://*.phlf.org/*
 *://*.phlush.org/*
@@ -2537,6 +2600,7 @@
 *://*.playinteligencia.com.br/*
 *://*.plenicom.com.br/*
 *://*.ploomx.jpn.org/*
+*://*.plus1-one.co.jp/*
 *://*.pm-motorparts.pt/*
 *://*.pnpsummit.com/*
 *://*.poapan.xyz/*
@@ -2559,6 +2623,7 @@
 *://*.portofino.co.nz/*
 *://*.portugalvilela.com.br/*
 *://*.postosmahle.com.br/*
+*://*.potepan.com/*
 *://*.powabnastrefa.pl/*
 *://*.powerchairhockey.fi/*
 *://*.powermeterline.com/*
@@ -2584,6 +2649,7 @@
 *://*.proanswers.org/*
 *://*.proar1.com.br/*
 *://*.producaocultural.com.br/*
+*://*.products.sint.co.jp/*
 *://*.proengineer.internous.co.jp/*
 *://*.profaz.com.br/*
 *://*.professoressagarofalo.it/*
@@ -2598,6 +2664,7 @@
 *://*.programingsaikou.com/*
 *://*.programmatic.solutions/*
 *://*.programmer-japan.com/*
+*://*.programmercollege.jp/*
 *://*.programmierfrage.com/*
 *://*.programming-articles.com/*
 *://*.programming-life.com/*
@@ -2645,6 +2712,7 @@
 *://*.puskesmascilincing.id/*
 *://*.puulse.co/*
 *://*.pvcrl.com/*
+*://*.pwco.jp/*
 *://*.pxsglobal.net/*
 *://*.py4u.net/*
 *://*.py4u.org/*
@@ -2677,6 +2745,7 @@
 *://*.qastack.com.ua/*
 *://*.qastack.fr/*
 *://*.qastack.id/*
+*://*.qastack.in.th/*
 *://*.qastack.info.tr/*
 *://*.qastack.it/*
 *://*.qastack.jp/*
@@ -2722,6 +2791,7 @@
 *://*.randomgraphics.es/*
 *://*.rangosgrill.com.br/*
 *://*.ransyu-blog.com/*
+*://*.rapid.wpx.jp/*
 *://*.rarswi.net/*
 *://*.rastgar-co.com/*
 *://*.rasumuba.com.tr/*
@@ -2737,6 +2807,7 @@
 *://*.rawmangaraw.com/*
 *://*.rawmangaraw.net/*
 *://*.raycarvalhoimoveis.com.br/*
+*://*.rbbtoday.com/*
 *://*.rc-aussenlastsysteme.de/*
 *://*.rcprojectconsultancy.com/*
 *://*.rcv.co.jp/*
@@ -2801,6 +2872,7 @@
 *://*.riversidetogether.org/*
 *://*.riverviewlodge.co.nz/*
 *://*.rizumutaisou.com/*
+*://*.rnqq.moo.jp/*
 *://*.robertadamslaw.com/*
 *://*.rodeosemillas.com/*
 *://*.rodoviaslog.com.br/*
@@ -2818,7 +2890,9 @@
 *://*.rpkg.in/*
 *://*.rr.gov.br/*
 *://*.rracademy.in/*
+*://*.rssing.com/*
 *://*.rst24plus.net/*
+*://*.rstone-jp.com/*
 *://*.ru-wiki.ru/*
 *://*.rubezpieczenia.pl/*
 *://*.rudzkaacademy.pl/*
@@ -2829,6 +2903,7 @@
 *://*.ruphp.com/*
 *://*.rustrepo.com/*
 *://*.ryonaniko.com/*
+*://*.s-momo.rdy.jp/*
 *://*.s2a-maroc.com/*
 *://*.s3udi.tv/*
 *://*.sacidkordas.com/*
@@ -2858,6 +2933,7 @@
 *://*.sarangkkb.com/*
 *://*.saratov.gov.ru/*
 *://*.sargon24.com/*
+*://*.sarmacja.org/*
 *://*.sartoriscopiadoras.com.br/*
 *://*.satobayashi.net/*
 *://*.satouhikari.hatenablog.com/*
@@ -2871,6 +2947,7 @@
 *://*.sch22.org/*
 *://*.scharee.com/*
 *://*.schm.tv/*
+*://*.scholarship.edu.vn/*
 *://*.schoo.jp/*
 *://*.schwimmwagen.com/*
 *://*.sci-business-week.de/*
@@ -2880,6 +2957,7 @@
 *://*.seanmoolman.co.za/*
 *://*.sec.gov/*
 *://*.second.wiki/*
+*://*.secret-bases.co.uk/*
 *://*.secret-lover.jp/*
 *://*.secubac.go.th/*
 *://*.segmentfault.com/*
@@ -2907,6 +2985,7 @@
 *://*.seryholenderskie.pl/*
 *://*.seunivir.edu.mx/*
 *://*.seven-city.com/*
+*://*.sevennet-blog.tumblr.com/*
 *://*.sg.gov.lk/*
 *://*.sge.com.br/*
 *://*.sghscdhaka.edu.bd/*
@@ -2930,6 +3009,7 @@
 *://*.shootingbar-ea.jp/*
 *://*.shopserve.jp/*
 *://*.shortcuts.es/*
+*://*.shufu.co.jp/telus/category/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/*
 *://*.sidlab.se/*
 *://*.sierrasummit2005.org/*
 *://*.sikopedia.com/*
@@ -2993,6 +3073,7 @@
 *://*.sosfiltration.ca/*
 *://*.sothinkmedia.com/*
 *://*.soudal.by/*
+*://*.sougyouschool.jp/*
 *://*.souqaldahab.com/*
 *://*.sours.jp/*
 *://*.southernyachtsman.com/*
@@ -3073,6 +3154,7 @@
 *://*.sumomo-ch.com/*
 *://*.sunbeamgroup.net/*
 *://*.sunbeamshome.org/*
+*://*.suneo39.wp.xdomain.jp/*
 *://*.sunflowercreations.org/*
 *://*.super-unix.com/*
 *://*.super8footballleague.info/*
@@ -3101,6 +3183,7 @@
 *://*.synapto.nl/*
 *://*.syntaxfix.com/*
 *://*.syosetu-me.blogspot.com/*
+*://*.syosetu-me.gitbook.io/*
 *://*.syosetu.is/*
 *://*.syosetu.si/*
 *://*.syosetu.top/*
@@ -3122,6 +3205,7 @@
 *://*.talked.info/*
 *://*.tamantugu.my/*
 *://*.tamarairving.com/*
+*://*.tamasoft.co.jp/*
 *://*.tambuel.ru/*
 *://*.tamise.mx/*
 *://*.tarimerazacatecas.com.mx/*
@@ -3140,9 +3224,12 @@
 *://*.tech-boost.jp/*
 *://*.tech-camp.in/*
 *://*.tech-hub.love/*
+*://*.tech-mentor.dev/*
+*://*.tech-reach.jp/*
 *://*.tech-teacher.jp/*
 *://*.techacademy.jp/*
 *://*.techarks.ru/*
+*://*.techbiz.com/*
 *://*.techbuzz.com.pk/*
 *://*.techcareer.jp/*
 *://*.techcari.com/*
@@ -3150,12 +3237,16 @@
 *://*.techfeed.net/*
 *://*.techgardenschool.com/*
 *://*.techgym.jp/*
+*://*.techgym.thebase.in/*
 *://*.techinplanet.com/*
+*://*.techmania.jp/*
 *://*.technointeract.com/*
 *://*.technolog.jp/*
 *://*.technoteshelp.com/*
 *://*.technutrition.pe/*
+*://*.techplay.jp/*
 *://*.techtalk7.com/*
+*://*.techvalley.jp/*
 *://*.tecnocomperfiles.cl/*
 *://*.tedirlke.com/*
 *://*.telebere.com/*
@@ -3174,7 +3265,6 @@
 *://*.tetz-blog.online/*
 *://*.tfdbrasil.com.br/*
 *://*.tfetimes.com/*
-*://*.tgka.sakura.ne.jp/*
 *://*.thanksgivingdayclipart.com/*
 *://*.the01.jp/*
 *://*.theautismdirectory.com/*
@@ -3205,6 +3295,8 @@
 *://*.thewerks.org.uk/*
 *://*.thewifi.co.jp/*
 *://*.thewindowsclub.blog/*
+*://*.thewire.in/*
+*://*.thhb.skr.jp/*
 *://*.thiesdistribution.com/*
 *://*.thikashi-blog.com/*
 *://*.thinbug.com/*
@@ -3288,7 +3380,9 @@
 *://*.trullilovely.com/*
 *://*.try2explore.com/*
 *://*.trymata.com/*
+*://*.tsugelog.com/*
 *://*.tsuyopon.xyz/*
+*://*.tuber-ch.com/*
 *://*.turkcast.com.tr/*
 *://*.turkey-shop.com/*
 *://*.tutorialguruji.com/*
@@ -3302,6 +3396,7 @@
 *://*.twitter-recommendation-block.softonic.jp/*
 *://*.twrmas.com/*
 *://*.twtobi.com/*
+*://*.typepad.com/*
 *://*.tyresave.co.uk/*
 *://*.tyrex.ru/*
 *://*.u-kaihatsu.jp/*
@@ -3311,17 +3406,23 @@
 *://*.ubuntugeeks.com/*
 *://*.ubuntuplace.info/*
 *://*.udaytonp.com.br/*
+*://*.udg.mx/*
 *://*.uebu-kaihatsu.jp.net/*
+*://*.uema.br/*
 *://*.ueqareer.net/*
 *://*.uesugi-museum.jp/*
+*://*.ufrn.br/*
+*://*.ugal.ro/*
 *://*.ugaldemoda.com/*
 *://*.ugellampa.edu.pe/*
 *://*.uha-blog.com/*
 *://*.uhas.edu.gh/*
 *://*.uimptv.es/*
+*://*.ulicky.sk/*
 *://*.ulogro.click/*
 *://*.ultralabi.com.br/*
 *://*.um.edu.mt/*
+*://*.umcs.pl/*
 *://*.umma.hu/*
 *://*.umutbarbaros.com/*
 *://*.un-chapeau.com/*
@@ -3340,9 +3441,11 @@
 *://*.unimac.az/*
 *://*.uninstantunepose.be/*
 *://*.uninta.edu.br/*
+*://*.unison-career.com/*
 *://*.univ-programmer.com/*
 *://*.universobebepalma.com/*
 *://*.untrace.co.jp/*
+*://*.unu.edu/*
 *://*.uonbi.ac.ke/*
 *://*.upm.es/*
 *://*.upprice.com.br/*
@@ -3359,6 +3462,7 @@
 *://*.uruoikyoto.jp/*
 *://*.uryellleandro.com.br/*
 *://*.usconsort.com/*
+*://*.usgs.gov/*
 *://*.utagejima.jp/*
 *://*.utexas.edu/*
 *://*.utyatnishna.ru/*
@@ -3389,6 +3493,7 @@
 *://*.viciunaigroup.eu/*
 *://*.victoriabain.co.uk/*
 *://*.video-archiv.info/*
+*://*.video-downloader-for-tiktok.jp.uptodown.com/*
 *://*.videofilmdigital.de/*
 *://*.vidon.me/*
 *://*.viernes13.net/*
@@ -3417,7 +3522,6 @@
 *://*.vod365.net/*
 *://*.vodfunsite.com/*
 *://*.vogel-group.com/*
-*://*.voice.hnt.co.jp/*
 *://*.voidcc.com/*
 *://*.volvocascavel.com.br/*
 *://*.voolks.com/*
@@ -3452,6 +3556,7 @@
 *://*.watching-review.com/*
 *://*.wav.tv/*
 *://*.waymanamechurch.org/*
+*://*.wayne-chu.com/*
 *://*.wazzelife.com/*
 *://*.wearbe.org/*
 *://*.wearepitchypatchy.com/*
@@ -3465,8 +3570,10 @@
 *://*.webdesigntips.blog/*
 *://*.webdevdesigner.com/*
 *://*.webdevqa.jp.net/*
+*://*.webflow.io/*
 *://*.webhampskyd.buzz/*
 *://*.webknox.com/*
+*://*.weblog.to/*
 *://*.webmonkez.com/*
 *://*.websae.net/*
 *://*.websites-manual.com/*
@@ -3505,12 +3612,14 @@
 *://*.wikizero.com/*
 *://*.wildcultureyala.com/*
 *://*.wildivyblowdrybar.com/*
+*://*.willcloud.jp/*
 *://*.wilsonvietnam.com/*
 *://*.windowssearch-exp.com/*
 *://*.winebuy.com.br/*
 *://*.winmundo.com/*
 *://*.winschool.jp/*
 *://*.wiwa.wiki/*
+*://*.wk-partners.co.jp/*
 *://*.woburnvillage.ca/*
 *://*.woertherseeboote.at/*
 *://*.wolf-brands.de/*
@@ -3521,6 +3630,7 @@
 *://*.wooc.co/*
 *://*.woodbase-stove.com/*
 *://*.wordpress.com/*
+*://*.works.forward-soft.co.jp/*
 *://*.workstyle-cafe.com/*
 *://*.world-of-dawkins.com/*
 *://*.worldgrowthtoday.com/*
@@ -3530,8 +3640,11 @@
 *://*.wp-qa.com/*
 *://*.wrep.jp/*
 *://*.writercosme.com/*
+*://*.wss-class.com/*
 *://*.wtcfs.com/*
+*://*.wujigu.com/*
 *://*.wyzant.com/*
+*://*.x-hours.com/*
 *://*.xact.org.uk/*
 *://*.xbooks.work/*
 *://*.xfc2.info/*
@@ -3569,15 +3682,16 @@
 *://*.xsrv.jp/*
 *://*.xszz.org/*
 *://*.xvideo-jp.com/*
+*://*.xvideo.xyz/*
 *://*.yabepark.com/*
 *://*.yacchi-engineer.com/*
 *://*.yachtclubpucusana.com.pe/*
-*://*.yahahai.sakura.ne.jp/*
 *://*.yakst.com/*
 *://*.yakuneba-ten.jp/*
 *://*.yanbaru-eco.jp/*
 *://*.yard32.com/*
 *://*.yash.rocks/*
+*://*.yashio-corp.com/*
 *://*.yattodetaman.blog50.fc2.com/*
 *://*.yayasanperak.gov.my/*
 *://*.ycp.com.kh/*
@@ -3620,9 +3734,11 @@
 *://*.zain.love/*
 *://*.zapytay.com/*
 *://*.zaragovia.com/*
+*://*.zatsumatomesan.kokohenjp.mixh.jp/*
 *://*.zditect.com/*
 *://*.zensho24.co.jp/*
 *://*.zensyaren.net/*
+*://*.zero-plus.io/*
 *://*.zero-school.com/*
 *://*.zetsubou.org/*
 *://*.zharri.com/*
@@ -3650,134 +3766,3 @@
 *://*.zzun.app/*
 *://*.プログラミングスクール.net/*
 *://*.プログラミングスクール比較.com/*
-/^https?:\/\/(www\.)?it-(swarm|mure)[-.]([a-z]{1,5}[-.]){0,3}[a-z]{1,5}\//
-/^https?:\/\/.*\.torrentkitty\.[a-z]{2,}$/
-/^https?:\/\/dojin-[a-zA-Z0-9]{1,10}\.cyou\/.*/
-/techgym.*?\.connpass.com/
-title/(プログラミング|オンライン|エンジニア)+\s*(スクール|教室|講座)/
-
-
-!# TEMP
-*://*.afaherivo.ulicky.sk/*
-*://*.flo210908.blog.ss-blog.jp/*
-*://*.ftest.cfbx.jp/*
-*://*.git.histb.com/*
-*://*.github.astrophel.org/*
-*://*.github.innominds.com/*
-*://*.github.phala.one/*
-*://*.hillo14p.bodegalostoneles.com/*
-*://*.hrica.gob.pe/*
-*://*.i.codehack.jp/*
-*://*.ias.unu.edu/*
-*://*.ichioshi.smt.docomo.ne.jp/*
-*://*.jaltenco.gob.mx/*
-*://*.jp.mytory.net/*
-*://*.k12.al.us/*
-*://*.kandi.openweaver.com/*
-*://*.knproduktywni.umcs.pl/*
-*://*.limulu.weblog.to/*
-*://*.litere.ugal.ro/*
-*://*.livewire.thewire.in/*
-*://*.manga.tuber-ch.com/*
-*://*.movie.digle.tokyo/*
-*://*.musica.ufrn.br/*
-*://*.my.tvnet.if.ua/*
-*://*.nink.dlold.net/*
-*://*.noninternational56.rssing.com/*
-*://*.patrickkidd3.typepad.com/*
-*://*.patzcuaro.gob.mx/*
-*://*.pcolle.xvideo.xyz/*
-*://*.plus.otonanoqbei.com/*
-*://*.progep.uema.br/*
-*://*.programming.tsugelog.com/*
-*://*.propen.dream-target.jp/*
-*://*.qa.1r1g.com/*
-*://*.qa.wujigu.com/*
-*://*.qastack.in.th/*
-*://*.quitosaludable.gob.ec/*
-*://*.rapid.wpx.jp/*
-*://*.rashkafilms.epizy.com/*
-*://*.research.bsu.by/*
-*://*.rnqq.moo.jp/*
-*://*.s-momo.rdy.jp/*
-*://*.saca.aussievitamin.com/*
-*://*.scienco.bio.br/*
-*://*.sevennet-blog.tumblr.com/*
-*://*.shiroero.echiechi.site/*
-*://*.skilled.yashio-corp.com/media/*
-*://*.so.muouseo.com/*
-*://*.softwareuser.asklobster.com/*
-*://*.solveforums.msomimaktaba.com/*
-*://*.srsmetropolitano.gob.do/*
-*://*.static.hlt.bme.hu/*
-*://*.stem.aesa.org/*
-*://*.style.potepan.com/*
-*://*.sugar2664.rssing.com/*
-*://*.suneo39.wp.xdomain.jp/*
-*://*.sv.abcdef.wiki/*
-*://*.syosetu-manga.webflow.io/*
-*://*.syosetu-me.gitbook.io/*
-*://*.syosetu.webflow.io/*
-*://*.tech.hipro-job.jp/*
-*://*.tech.wayne-chu.com/*
-*://*.techgym.thebase.in/*
-*://*.tempsite.ugal.ro/*
-*://*.teteles.gob.mx/*
-*://*.th.hmong.wiki/*
-*://*.the.ihu.gr/*
-*://*.thhb.skr.jp/*
-*://*.third.wss-class.com/*
-*://*.ubuntu.buildwebhost.com/*
-*://*.udgvirtual.udg.mx/*
-*://*.veranstaltungen.lkz.de/*
-*://*.video-downloader-for-tiktok.jp.uptodown.com/*
-*://*.vonthorn.sarmacja.org/*
-*://*.web.bluecomtech.com/*
-*://*.wiki.alquds.edu/*
-*://*.wp-salary-blog.pwco.jp/*
-*://*.wr.usgs.gov/*
-*://*.zatsumatomesan.kokohenjp.mixh.jp/*
-*://*.axxis.co.jp/magazine/*
-*://*.brianlovin.com/hn/*
-*://*.engineer-route.com/column/*
-*://*.flxy.jp/media/*
-*://*.geekly.co.jp/column/*
-*://*.hnavi.co.jp/knowledge/*
-*://*.humalance.com/archives/column/*
-*://*.it-kyujin.jp/article/*
-*://*.itpropartners.com/blog/*
-*://*.kagoya.jp/howto/*
-*://*.lightrun.com/answers/*
-*://*.maneo.jp/media/*
-*://*.markup-media.com/programming/*
-*://*.meister-kentei.jp/magazine/*
-*://*.mid-works.com/columns/*
-*://*.miraie-group.jp/sees/article/*
-*://*.modis.jp/staffing/insight/*
-*://*.mynavi-agent.jp/knowledge/it/*
-*://*.offers.jp/media/*
-*://*.pasonatech.co.jp/workstyle/column/*
-*://*.peraichi.com/univ/*
-*://*.plus1-one.co.jp/programming/*
-*://*.products.sint.co.jp/topsic/blog/*
-*://*.programmercollege.jp/column/*
-*://*.rbbtoday.com/webcode/*
-*://*.rstone-jp.com/column/*
-*://*.scholarship.edu.vn/wiki/*
-*://*.secret-bases.co.uk/wiki/*
-*://*.shufu.co.jp/telus/category/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/*
-*://*.sougyouschool.jp/programming/*
-*://*.tamasoft.co.jp/column/programming/*
-*://*.tech-mentor.dev/blog/*
-*://*.tech-reach.jp/column/*
-*://*.techbiz.com/media/study/*
-*://*.techmania.jp/blog/*
-*://*.techplay.jp/column/*
-*://*.techvalley.jp/articles/*
-*://*.unison-career.com/engineer-media/*
-*://*.willcloud.jp/knowhow/*
-*://*.wk-partners.co.jp/homepage/blog/*
-*://*.works.forward-soft.co.jp/blog/*
-*://*.x-hours.com/articles/*
-*://*.zero-plus.io/media/*
-
