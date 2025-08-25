@@ -1,4 +1,4 @@
-!# 20250823-01
+!# 20250826-01
 
 !# regex
 /^https?:\/\/([^\/]+\.)?it-swarm(-es|-fr|-ja)?(\.(asia|com\.de|com\.ru|dev|jp\.net|net|xyz|com|tech))(\/.*)?$/
@@ -38,6 +38,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.2000gou.com/*
 *://*.21bridges.jp/*
 *://*.21management.at/*
+*://*.2535fh.com/*
 *://*.2756.jp/*
 *://*.2chav.com/*
 *://*.2d-ecstasy.com/*
@@ -65,6 +66,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.796t.com/*
 *://*.7instants.com/*
 *://*.8020mkt.com.br/*
+*://*.8fh.org/*
 *://*.8mart.jp/*
 *://*.8mato.jp/*
 *://*.900913.ru/*
@@ -74,7 +76,9 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.9lashtokyo.com/*
 *://*.9to5answer.com/*
 *://*.9to5science.com/*
+*://*.a-actor.com/*
 *://*.a-times24.com/*
+*://*.a-up.info/*
 *://*.a3ambiental.com.br/*
 *://*.a3erf.com/*
 *://*.aabm0.com/*
@@ -105,6 +109,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.acquasolution.com/*
 *://*.actingcollegeses.com/*
 *://*.actionplussherb.org/*
+*://*.actlooks.com/*
 *://*.acupunturamarilia.com.br/*
 *://*.adaffi.info/*
 *://*.adalabo666.com/*
@@ -129,14 +134,18 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.adult-pro-miss-wiki.com/*
 *://*.adult-select.com/*
 *://*.adult-video.tokyo/*
+*://*.adult-wiki.net/*
+*://*.adult18ero.com/*
 *://*.adultdoujin.wpx.jp/*
 *://*.adultdouzin.com/*
 *://*.adultinfojpn.com/*
 *://*.adultlab-rankings.com/*
 *://*.adultmm.jp/*
+*://*.adultmuryo.info/*
 *://*.adultpeace.com/*
 *://*.adultportal.jp/*
 *://*.adultsite.jp/*
+*://*.adultvideo.dbsearch.net/*
 *://*.adultvideomihoudai.com/*
 *://*.adurtpc.com/*
 *://*.advancecommunity.org/*
@@ -168,7 +177,9 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.ai-gazoukan.com/*
 *://*.ai-kenkyujo.com/*
 *://*.aiacademy.jp/*
+*://*.aibijin.com/*
 *://*.aidemy.net/*
+*://*.aierror.hatenablog.com/*
 *://*.aimangax.com/*
 *://*.aimpresores.cl/*
 *://*.aing.railpage.com.au/*
@@ -398,9 +409,13 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.av-19.com/*
 *://*.av-actress.jp/*
 *://*.av-baron.com/*
+*://*.av-channel.com/*
 *://*.av-girl-info.com/*
 *://*.av-matome.jp/*
+*://*.av-ranking2022.com/*
+*://*.av-saiyasu.com/*
 *://*.av-wiki.net/*
+*://*.av-zero.com/*
 *://*.av001.jp/*
 *://*.av02.jp/*
 *://*.avanza.com.br/*
@@ -411,11 +426,14 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.avertex.com.br/*
 *://*.avgle.blog/*
 *://*.avgle.com/*
+*://*.avitter.net/*
+*://*.avmoview.com/*
 *://*.avname.jp/*
 *://*.avple.tv/*
 *://*.avppomppu.com/*
 *://*.avreview24.com/*
 *://*.avt85.fr/*
+*://*.avtime.net/*
 *://*.avtuver.com/*
 *://*.avvocatodefusco.it/*
 *://*.avwebm.com/*
@@ -510,6 +528,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.bforcure.com/*
 *://*.bhahouston.org/*
 *://*.bhd-journal.com/*
+*://*.bi-av.com/*
 *://*.biancoriccio.com/*
 *://*.bichodeluxo.com.br/*
 *://*.bicpu.edu.in/*
@@ -702,6 +721,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.chiba-tv.com/*
 *://*.chiesa.jp/*
 *://*.chijo-doujin.com/*
+*://*.chijoero.com/*
 *://*.chiramise-girls.com/*
 *://*.chmurabb.eu/*
 *://*.cho-animedia.jp/*
@@ -805,6 +825,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.coki.jp/*
 *://*.cokitchen.com.br/*
 *://*.colcuidar.com/*
+*://*.cole2.net/*
 *://*.colegioirlandesvhsa.edu.mx/*
 *://*.colegiomarillac.edu.co/*
 *://*.colehaan.my/*
@@ -822,6 +843,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.comic-daigaku.com/*
 *://*.comic-date.com/*
 *://*.comic-eromanga.com/*
+*://*.comic-highway.com/*
 *://*.comic-hitomiraw.com/*
 *://*.comic-trail.jp/*
 *://*.comic-underground.com/*
@@ -1059,6 +1081,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.dojinmanga.net/*
 *://*.dojinparadiso.jp/*
 *://*.dojinraw.com/*
+*://*.dokodeyomeru.com/*
 *://*.dokry.com/*
 *://*.dokusho-ojikan.jp/*
 *://*.domainedemayol.com/*
@@ -1140,6 +1163,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.douzinnsi-eromannga.com/*
 *://*.douzinomatomen.com/*
 *://*.dovov.com/*
+*://*.download.it/*
 *://*.dpsparadip.edu.in/*
 *://*.dpver.gov.ar/*
 *://*.drabusamakeyeclinic.com/*
@@ -1179,6 +1203,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.dynv6.net/*
 *://*.e-48.jp/*
 *://*.e-comicer.com/*
+*://*.e-erodoga.com/*
 *://*.e-gurume.jp/*
 *://*.e-learn.cn/*
 *://*.e-lign.com/*
@@ -1267,6 +1292,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.emporiodasfechaduras.com.br/*
 *://*.emsgames.com.br/*
 *://*.emuokunmaster.com/*
+*://*.emuoni.com/*
 *://*.en-dining.co.jp/*
 *://*.encaptechno.com/*
 *://*.enchannel.jp/*
@@ -1308,6 +1334,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.ero-bust.com/*
 *://*.ero-center.com/*
 *://*.ero-comic.jp/*
+*://*.ero-douga.tv/*
 *://*.ero-doujin-club.com/*
 *://*.ero-doujin.jp/*
 *://*.ero-douzin.blog.jp/*
@@ -1317,6 +1344,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.ero-info-antena.site/*
 *://*.ero-kaeru.jp/*
 *://*.ero-konan.com/*
+*://*.ero-kyoshi.cyou/*
 *://*.ero-library.com/*
 *://*.ero-log.fun/*
 *://*.ero-maga99.com/*
@@ -1330,6 +1358,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.ero-mangaraw.jp/*
 *://*.ero-mise.com/*
 *://*.ero-mmd.com/*
+*://*.ero-mura.com/*
 *://*.ero-na-vi.com/*
 *://*.ero-oshi.com/*
 *://*.ero-pico.net/*
@@ -1348,6 +1377,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.eroazu.com/*
 *://*.erobookjapan.com/*
 *://*.erocate.com/*
+*://*.erocolle.jp/*
 *://*.erocomi-alpha.com/*
 *://*.erocomic-love.net/*
 *://*.erocomic.net/*
@@ -1385,6 +1415,8 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.eroiposter.net/*
 *://*.eroize-lb-1242669786.ap-northeast-1.elb.amazonaws.com/*
 *://*.eroizone.com/*
+*://*.erojav.net/*
+*://*.erojav01.com/*
 *://*.erojavtv.com/*
 *://*.erokaido.com/*
 *://*.erokamikagura.com/*
@@ -1432,11 +1464,14 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.eromatsuri.com/*
 *://*.eromazofu.com/*
 *://*.erommdtube.com/*
+*://*.eromon.net/*
 *://*.eromovie-s.com/*
 *://*.eromu-su-me.com/*
 *://*.eronomichishirube.jp/*
+*://*.eropra.com/*
 *://*.eroprotese.com.br/*
 *://*.eropuru.com/*
+*://*.eropv.com/*
 *://*.erorep.jp/*
 *://*.erosexmanga.com/*
 *://*.eroshort.com/*
@@ -1445,6 +1480,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.erostash.com/*
 *://*.erotera.blogo.jp/*
 *://*.eroterest.net/*
+*://*.erotic-videos.monster/*
 *://*.eroticdoujinhouse.com/*
 *://*.erotictimes.info/*
 *://*.erourl.com/*
@@ -1459,6 +1495,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.escolaeminente.com.br/*
 *://*.espacioriesco.cl/*
 *://*.especialistaresultados.com.br/*
+*://*.espresso-newyork.x0.to/*
 *://*.essenzabymauri.com/*
 *://*.essextouristguide.co.uk/*
 *://*.esthetikpro.com/*
@@ -1514,6 +1551,9 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.fanza-manga.com/*
 *://*.fanza-ranking.blog.jp/
 *://*.fanza-shirouto.com/*
+*://*.fanza.mixh.jp/*
+*://*.fanza.plus/*
+*://*.fanza.vip/*
 *://*.fanzadensho.com/*
 *://*.fanzareview.com/*
 *://*.fap2bed.com/*
@@ -1616,6 +1656,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.francaimoveismg.com.br/*
 *://*.francenehalili.com/*
 *://*.free-av-douga.com/*
+*://*.free-av.tokyo/*
 *://*.free-avx.jp/*
 *://*.free-engineer.life/*
 *://*.free-erobooks.com/*
@@ -1627,6 +1668,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.freelance-start.com/*
 *://*.freemanngar18.com/*
 *://*.freenuki.com/*
+*://*.freeonlineftp.com/*
 *://*.freesoulfood.com.br/*
 *://*.freetoursantiagodecompostela.com/*
 *://*.fremontcinema.com/*
@@ -1666,6 +1708,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.fywg.com/*
 *://*.g-gate.info/*
 *://*.gabrans.com/*
+*://*.gadgeeed.com/*
 *://*.galaxynote5edge.com/*
 *://*.galloupguitars.com/*
 *://*.gambitconstruction.com/*
@@ -1837,6 +1880,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.h-senmon.com/*
 *://*.h-subsc.com/*
 *://*.haberdar.com/*
+*://*.hacgn.eu.org/*
 *://*.hachioji-ring.jp/*
 *://*.hackerthink.com/*
 *://*.hadablog.com/*
@@ -1899,6 +1943,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.hentai-gekijo.com/*
 *://*.hentai-jpn.com/*
 *://*.hentai-manga-raw.jp/*
+*://*.hentai-mangahitomi.com/*
 *://*.hentai-mangajikan.jp/*
 *://*.hentai-online.com/*
 *://*.hentai-raw-manga.jp/*
@@ -2020,6 +2065,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.ibpsicologia.com.br/*
 *://*.ichigo0327.com/*
 *://*.ichioshi.smt.docomo.ne.jp/*
+*://*.ichiro3000.net/*
 *://*.icoanet.it/*
 *://*.icode.best/*
 *://*.icode9.com/*
@@ -2191,6 +2237,12 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.jav.land/*
 *://*.jav.re/*
 *://*.jav24.com/*
+*://*.jav321.com/*
+*://*.jav8.one/*
+*://*.jav8.pro/*
+*://*.jav98.app/*
+*://*.jav98.org/*
+*://*.jav98.xyz/*
 *://*.javaer101.com/*
 *://*.javaerrorfix.com/*
 *://*.javafixing.com/*
@@ -2198,6 +2250,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.javascriptcn.com/*
 *://*.javascripttutorial.net/*
 *://*.javawenti.com/*
+*://*.javbooks.com/*
 *://*.javcloud.com/*
 *://*.javcv.com/*
 *://*.javdatabase.com/*
@@ -2206,6 +2259,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.javeralvare.com/*
 *://*.javfactory.net/*
 *://*.javfilms.com/*
+*://*.javgoo.blog.2nt.com/*
 *://*.javhard.net/*
 *://*.javhdworld.com/*
 *://*.javhentai.jp/*
@@ -2289,8 +2343,10 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.jvamix.com/*
 *://*.jwbni.com/*
 *://*.k-gohan.com/*
+*://*.k-hips.com/*
 *://*.kaago.com/*
 *://*.kacauoliveira.com.br/*
+*://*.kachi-kochi.com/*
 *://*.kaczvaph.info/*
 *://*.kaeuchi.jp/*
 *://*.kafuuchino.com.cn/*
@@ -2347,6 +2403,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.khabartop.com/*
 *://*.khmmsbj.business/*
 *://*.khotailieu.edu.vn/*
+*://*.kijoui-holic.com/*
 *://*.kikiki-fps.com/*
 *://*.kikikom.com/*
 *://*.kilmurryandco.co.uk/*
@@ -2358,6 +2415,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.kingswaypowernc.com/*
 *://*.kinselcpa.com/*
 *://*.kintarogroup.com/*
+*://*.kireiwm.jp/*
 *://*.kirinstation.seesaa.net/*
 *://*.kiselavoda.gov.mk/*
 *://*.kishikorofreee.com/*
@@ -2389,6 +2447,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.komamen.net/*
 *://*.kompsekret.ru/*
 *://*.konnitiwaseikyo.com/*
+*://*.kono-av.com/*
 *://*.konyaanto.net/*
 *://*.koraarabia.com/*
 *://*.koregasiritai.com/*
@@ -2530,6 +2589,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.love-glans.com/*
 *://*.loveincltd.co.uk/*
 *://*.lovelive-sifacns.jp/*
+*://*.loveliveforever.net/*
 *://*.lowongan.live/*
 *://*.ls2.vn/*
 *://*.lsvolta.edu.it/*
@@ -2587,6 +2647,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.maneo.jp/*
 *://*.manga-air.com/*
 *://*.manga-chirigami.com/*
+*://*.manga-class.com/*
 *://*.manga-dojin-manager.com/*
 *://*.manga-eromangasuki.com/*
 *://*.manga-free.net/*
@@ -2671,6 +2732,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.masa-kun.jp/*
 *://*.mashikong.com/*
 *://*.mashmarketing.net/*
+*://*.maskadult.xyz/*
 *://*.massime.com.br/*
 *://*.matelaranjeiras.com.br/*
 *://*.matera.it/*
@@ -2682,6 +2744,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.matomegay.com/*
 *://*.matometa-antenna.com/*
 *://*.matometatta-news.net/*
+*://*.mattari-note.hatenablog.com/*
 *://*.max24365.com/*
 *://*.maxdebrid.com/*
 *://*.maxinterview.com/*
@@ -2758,6 +2821,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.miragesoft.jp/*
 *://*.mirai-tc.com/*
 *://*.miraie-group.jp/*
+*://*.mirunuku.net/*
 *://*.mis.udru.ac.th/*
 *://*.miss-jav.com/*
 *://*.missav-av.jp/*
@@ -2898,6 +2962,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.nakameguro-solfa.com/*
 *://*.nakanono.com/*
 *://*.nakaterux.hatenablog.com/*
+*://*.nakiny.com/*
 *://*.nakuru.go.ke/*
 *://*.nakyublog.com/*
 *://*.namachacha.com/*
@@ -3020,12 +3085,15 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.nuha.cc/*
 *://*.nuitsdycimes.fr/*
 *://*.nukeero.com/*
+*://*.nukemanga-free.com/*
 *://*.nukeru-doujinshi.com/*
 *://*.nukeruerodouga.com/*
 *://*.nukinosuke.com/*
 *://*.nukipon.jp/*
+*://*.nukisaga.com/*
 *://*.nukitomo.me/*
 *://*.nukitto.com/*
+*://*.nukki.mhx.jp/*
 *://*.nulcakam.click/*
 *://*.nuomiphp.com/*
 *://*.nurse-ms.com/*
@@ -3041,6 +3109,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.obervatory.wiki/*
 *://*.obgynegy.com/*
 *://*.obihp.jp/*
+*://*.observation-diary.com/*
 *://*.ochamerider.com/*
 *://*.octoba.net/*
 *://*.odu-projekt.de/*
@@ -3074,6 +3143,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.omoideto-hitorigoto.com/*
 *://*.omorashi.org/*
 *://*.omutudata.com/*
+*://*.ona-log.com/*
 *://*.onabito.com/*
 *://*.onahodouga.com/*
 *://*.onani-daisuki.com/*
@@ -3091,7 +3161,9 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.openweaver.com/*
 *://*.operationsports.com/*
 *://*.opineals.net/*
+*://*.oppaidb.com/*
 *://*.oppaiwomomu.blog.fc2.com/*
+*://*.oppiemv.jp/*
 *://*.optimasaude.com.br/*
 *://*.optimus61.co/*
 *://*.oraask.com/*
@@ -3168,6 +3240,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.pascal-nicolas-reverdy.com/*
 *://*.pasonatech.co.jp/*
 *://*.passfab.hatenablog.com/*
+*://*.passionate-libidojav.xxxblog.jp/*
 *://*.passservices.com.au/*
 *://*.paulotamanaha.com.br/*
 *://*.pavdobrasil.com.br/*
@@ -3257,6 +3330,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.porndelo.com/*
 *://*.pornhub.be/*
 *://*.pornjav.org/*
+*://*.pornvidoga.com/*
 *://*.portaldekor.rs/*
 *://*.portalf.com.br/*
 *://*.portoex.com.br/*
@@ -3432,6 +3506,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.ramentakara.co.nz/*
 *://*.randomgraphics.es/*
 *://*.rangosgrill.com.br/*
+*://*.ranking-deli.jp/*
 *://*.ransyu-blog.com/*
 *://*.rapid.wpx.jp/*
 *://*.rarswi.net/*
@@ -3576,6 +3651,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.safehavenpetrescue.org/*
 *://*.sahafy.net/*
 *://*.sai-dc.com/*
+*://*.saika-love.com/*
 *://*.saiko-datta.com/*
 *://*.saishinkan.work/*
 *://*.sakai-kojiblog.com/*
@@ -3652,6 +3728,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.seksichatti.com/*
 *://*.selenodesy.com/*
 *://*.selfocus.co.uk/*
+*://*.sellmart-kt.blog.jp/*
 *://*.semeraretaikokoro.blog.2nt.com/*
 *://*.semicolonworld.com/*
 *://*.semillanueva.org/*
@@ -3671,6 +3748,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.seunivir.edu.mx/*
 *://*.seven-city.com/*
 *://*.sevennet-blog.tumblr.com/*
+*://*.sexy-adulty.net/*
 *://*.sg.gov.lk/*
 *://*.sge.com.br/*
 *://*.sghscdhaka.edu.bd/*
@@ -3687,6 +3765,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.shicony.com/*
 *://*.shiiimo.com/*
 *://*.shimapuku.com/*
+*://*.shimoitozu.jp/*
 *://*.shin-memo.com/*
 *://*.shiro-changelife.com/*
 *://*.shirotomaster.com/*
@@ -3703,6 +3782,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.shonan-intl.net/*
 *://*.shootingbar-ea.jp/*
 *://*.shopserve.jp/*
+*://*.short-video.net/*
 *://*.shortcuts.es/*
 *://*.shorten.gg/*
 *://*.shufu.co.jp/telus/category/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/*
@@ -3725,6 +3805,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.sinsimmd.com/*
 *://*.sinsuga.jp/*
 *://*.sintesecriminal.com/*
+*://*.sirisuki.com/*
 *://*.sironet.work/*
 *://*.site-translation.com/*
 *://*.sittecs.com.br/*
@@ -3923,6 +4004,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.tadimax.ru/*
 *://*.tag-concept.com/*
 *://*.tagmerge.com/*
+*://*.taishurx.jp/*
 *://*.taka-ta.com/*
 *://*.takaoka-walking.com/*
 *://*.takatarou.xyz/*
@@ -3985,6 +4067,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.techvalley.jp/*
 *://*.tecnocomperfiles.cl/*
 *://*.tedirlke.com/*
+*://*.tekoki-mania.com/*
 *://*.tekokin.com/*
 *://*.telebere.com/*
 *://*.telepon.cyou/*
@@ -3995,8 +4078,10 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.tenorshare.jp/*
 *://*.tenshoku-free.com/*
 *://*.tenshoku-stories.com/*
+*://*.tensyoku-syusyoku.net/*
 *://*.tensyokuknowhow.com/*
 *://*.tequiladamemas.com/*
+*://*.teresaall.com/*
 *://*.termanret.com/*
 *://*.terrigalwamberalnetball.net/*
 *://*.territorioscuola.it/*
@@ -4180,6 +4265,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.ulicky.sk/*
 *://*.ulogro.click/*
 *://*.ultralabi.com.br/*
+*://*.ultramarket.livedoor.blog/*
 *://*.um.edu.mt/*
 *://*.umcs.pl/*
 *://*.umma.hu/*
@@ -4322,6 +4408,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.wakeupinvestments.com/*
 *://*.walnut-technologies.com/*
 *://*.wamhdbd.bar/*
+*://*.wanaps.jp/*
 *://*.wanwanwan.co.jp/*
 *://*.warabichannel.com/*
 *://*.warashi-asian-pornstars.fr/*
@@ -4443,6 +4530,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.x0.com/*
 *://*.xact.org.uk/*
 *://*.xasu.org/*
+*://*.xb1.com/*
 *://*.xbooks.work/*
 *://*.xfc2.info/*
 *://*.xhamster.how/*
@@ -4477,6 +4565,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.xn--feu8gn03bs5f.com/*
 *://*.xn--fhqa41lf5bkwfz7ol0huu0ceo1benl.com/*
 *://*.xn--futuroenespaol-1nb.es/*
+*://*.xn--gck8b2a7k3a9c.net/*
 *://*.xn--gckwhn25pncf.net/*
 *://*.xn--gmq92k6t0d.com/*
 *://*.xn--h9jo4fyc2d7bwfps046v.jp/*
@@ -4518,9 +4607,11 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.xsprogram.com/*
 *://*.xsrv.jp/*
 *://*.xszz.org/*
+*://*.xtclabo.com/*
 *://*.xuanyuansword.net/*
 *://*.xvideo-jp.com/*
 *://*.xvideo.xyz/*
+*://*.xxxja.app/*
 *://*.yabepark.com/*
 *://*.yacchi-engineer.com/*
 *://*.yachtclubpucusana.com.pe/*
@@ -4544,6 +4635,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.yokoyamadesuga.com/*
 *://*.yomidou.com/*
 *://*.yonoi.com/*
+*://*.yoruaso.com/*
 *://*.yoruoya.com/*
 *://*.yoshikazu-komatsu.com/*
 *://*.yoshitakablog.info/*
@@ -4588,6 +4680,7 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.zaragovia.com/*
 *://*.zatsumatomesan.kokohenjp.mixh.jp/*
 *://*.zbato.org/*
+*://*.zch-vip.com/*
 *://*.zditect.com/*
 *://*.zdoujin.xxxblog.jp/*
 *://*.zensho24.co.jp/*
@@ -4622,3 +4715,10 @@ title/(プログラミング|オンライン|エンジニア)+\s*(スクール|�
 *://*.zxc.wiki/*
 *://*.zymbolmag.com/*
 *://*.zzun.app/*
+
+
+
+
+
+
+
